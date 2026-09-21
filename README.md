@@ -185,3 +185,6 @@ Text-generation model creation grew **3.8 times faster** than non-text model cre
 - Open-source ecosystems respond rapidly to major technological breakthroughs.
 - Future research should consider whether the control group would naturally experience growth due to developments in other AI categories, such as audio and video models.
 
+Note:
+
+This project was a group effort by Luisa Garate & Drake Niepoetter
