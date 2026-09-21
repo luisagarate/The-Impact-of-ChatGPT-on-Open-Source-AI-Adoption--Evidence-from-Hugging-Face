@@ -79,12 +79,16 @@ Text-generation model creation grew **3.8 times faster** than non-text model cre
 | Estimated effect | 3.8x increase |
 | Parallel trends p-value | 0.847 |
 
+![Deliverable 4 Presentation](Deliverable%20%234%20Presentation.png)
+
+
 ### Event Study Analysis
 
 - Pre-treatment trends were parallel before November 2022, supporting the validity of the Difference-in-Differences approach.
 - The estimated effect continued to grow throughout 2024 and 2025.
 - By 2025, the treatment effect exceeded 2.0 on the log scale.
 
+![Deliverable 4 Presentation - Continued](Deliverable%20%234%20Presentation%20%281%29.png)
 ---
 
 ## Economic Impact Analysis
